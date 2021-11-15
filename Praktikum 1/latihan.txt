@@ -1,0 +1,16 @@
+1	nadiya amanda rizkania	5	
+2	prodi teknik informatika	4	
+3	fakultas teknologi industri	3	
+4	universitas trisakti	2	
+5	belajar keamanan data	1	
+6	petani menanam padi disawah	6	
+7	nelayan menangkap ikan dengan jaring	7	
+8	saya akan menggerjakan tugas itu besok	8	
+9	pak dosen menyampaikan materi secara lisan	9	
+10	nadya membuat desain grafis dengan komputer	5	
+11	dia sedang membaca buku di perpustakaan	4	
+12	ivana menghubungi saya tadi malam	3	
+13	mekanik sedang memperbaiki mobil ayah di bengkel	2	
+14	orang asing itu menyapa kami dengan ramah	1	
+15	angin puting beliung merusak tanaman di kebun. 	1	
+16	banjir menggenangi tanaman padi di sawah	2
